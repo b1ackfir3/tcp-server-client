@@ -3,6 +3,13 @@
 #include<stdlib.h>
 
 
+#include<netdb.h>
+#include<stdlib.h>
+#include<sys/socket.h>
+#include<unistd.h>
+#include<netinet.h>
+
+
 int main()
 {
 
