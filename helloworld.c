@@ -2,9 +2,14 @@
 #include<string.h>
 #include<stdlib.h>
 
+
 // who the hell are you
 
 #include<string.h>
+
+// lets make some confilict
+#include<iostream>
+
 
 
 #include<netdb.h>
