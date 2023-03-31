@@ -25,6 +25,8 @@ int main()
 		printf("socket creation successful");
 
 	}
+	
+	// assign the ip address and port
 
 	return 0;
 }
