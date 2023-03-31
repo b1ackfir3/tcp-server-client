@@ -2,7 +2,9 @@
 #include<string.h>
 #include<stdlib.h>
 
+// who the hell are you
 
+#include<string.h>
 
 
 #include<netdb.h>
