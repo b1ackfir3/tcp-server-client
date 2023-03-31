@@ -3,12 +3,16 @@
 #include<stdlib.h>
 
 
+
+
 #include<netdb.h>
 #include<stdlib.h>
 #include<sys/socket.h>
 #include<unistd.h>
 #include<netinet.h>
 
+#define MAX 80
+#define PORT 8080
 
 int main()
 {
